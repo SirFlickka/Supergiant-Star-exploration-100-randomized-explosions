@@ -1,25 +1,54 @@
 All Supergiant Collapses:
-    Supergiant ID Surface Composition             Result
-0               1                   H     Accretion Disk
-1               2                  He       Neutron Star
-2               3                  He  Larger Supergiant
-3               4                   H            Nothing
-4               5                  He  Larger Supergiant
-..            ...                 ...                ...
-95             96                   H  Larger Supergiant
-96             97                   H  Larger Supergiant
-97             98                  He     Accretion Disk
-98             99                  He       Neutron Star
-99            100                   H  Larger Supergiant
+   
+    Supergiant ID Surface Composition          
+    
+Result
+0               1                   H    
+Accretion Disk
+1               2                  He       
+Neutron Star
+2               3                  He  
+Larger Supergiant
+3               4                   H            
+Nothing
+4               5                  He  
+Larger Supergiant
+
+
+..            
+...                
+...                
+...
+
+95             96                   H  
+Larger Supergiant
+96             97                   H  
+Larger Supergiant
+97             98                  He     
+Accretion Disk
+98             99                  He       
+Neutron Star
+99            100                   H  
+Larger Supergiant
+
+
 
 [100 rows x 3 columns]
 
+
 Supergiants 7-9x Larger:
-    Supergiant ID Surface Composition             Result
-2               3                  He  Larger Supergiant
-4               5                  He  Larger Supergiant
-6               7                  He  Larger Supergiant
-9              10                  He  Larger Supergiant
+    
+    
+    Supergiant ID Surface Composition             
+Result
+2               3                  He  
+Larger Supergiant
+4               5                  He  
+Larger Supergiant
+6               7                  He  
+Larger Supergiant
+9              10                  He  
+Larger Supergiant
 11             12                   H  Larger Supergiant
 12             13                   H  Larger Supergiant
 13             14                  He  Larger Supergiant
